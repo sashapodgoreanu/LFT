@@ -9,5 +9,7 @@
  * @author st116628
  */
 public class NewClass {
+    asdasddasd
+            asdasdasd
     
 }
