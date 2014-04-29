@@ -10,5 +10,10 @@
  */
 public class NewClass {
     private int m;
+    private int m;
+    private int m;
+    private int m;
+    private int m;
+    private int m;
     
 }
